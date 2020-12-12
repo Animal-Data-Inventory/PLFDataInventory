@@ -1,4 +1,4 @@
-# Animal Science data inventory
+# PLF data inventory
 A database collection of farm animal behaviour phenotypes for modelling exploration.
 
 <p align="center">
