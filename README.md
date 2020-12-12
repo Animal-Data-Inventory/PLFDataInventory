@@ -2,7 +2,7 @@
 A database collection of farm animal behaviour phenotypes for modelling exploration.
 
 <p align="center">
-  <img src="https://github.com/oldtelescope/AnimalBehaviorDataBase/blob/main/CowSensor.jpg" width="300">
+  <img src="https://github.com/Animal-Data-Inventory/PLFDataInventory/blob/main/CowSensor.jpg" width="300">
 </p>
 
 # Goal
