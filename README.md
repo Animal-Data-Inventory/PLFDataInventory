@@ -30,10 +30,10 @@ Complete solution of the animal monitoring behavior problem.
 
 # Suggestions for the data formats
 ## Tag acceleration
-Files in .csv format with ';' as the delimiter.
+Files will be in .csv format with ';' as the delimiter. One file will contain data from one tag during one day from 00-00-00 till 23-59-59 or part of the day. The file name will have the format AccXYZ_YYYY-MM-DD_TagNNNN.csv, where NNNN is the number of the tag with the required number of digits and left 0 digits to keep all numbers in the same length. The file will include the time stamp in format HH-MM-SS.FFF, where HH is hours from 01 to 23 including the first 0 digit, MM are minutes including the first 0 digit, SS are seconds including the first 0 digit and FFF are milliseconds. The reference will be marked by a shortest distinguishable mark, for example, S is standing, L is lying, W is walking.
 
 Example
 
-| CowNo | DateTime | Ax | Ay | Az | Reference behavior |
-|-------|----------|----|----|----|--------------------|
-| 1234 | 2020-01-01 11-25-30 | 500 | 600 | -700 | Standing |
+| DateTime | Ax | Ay | Az | Reference behavior |
+|----------|----|----|----|--------------------|
+| 11-25-30 | 500 | 600 | -700 | S |
