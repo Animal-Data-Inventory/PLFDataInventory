@@ -22,7 +22,7 @@ Complete solution of the animal monitoring behavior problem.
 ## Cow indoor localization
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
-| https://zenodo.org/record/3981400 | 40Gb | Frames | CNN | [](https://www.frontiersin.org/articles/10.3389/frobt.2018.00107/full) |
+| https://zenodo.org/record/3981400 | 40Gb | Frames | CNN | Pereira et al., in review |
 | https://zenodo.org/deposit/3900340 | 50Gb | RSS x 10 stations | Trilateration | [Bloch et al., 2020](https://www.mdpi.com/1424-8220/20/14/3841) |
 ## Cow outdoor localization
 
