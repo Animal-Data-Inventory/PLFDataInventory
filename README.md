@@ -17,9 +17,9 @@ Complete solution of the animal monitoring behavior problem.
 ## Cow behavior
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
-| https://zenodo.org/record/3981400 | 40Gb | Frames | Deep learning | in review |
+| https://zenodo.org/record/3981400 | 40Gb | Frames | CNN | https://www.frontiersin.org/articles/10.3389/frobt.2018.00107/full |
 | https://www.mdpi.com/1424-8220/20/17/4741/xml | 89Mb | X, Y, Z, Ax, Ay, Az | Linear mixed model | https://www.mdpi.com/1424-8220/20/17/4741/xml |
-| https://zenodo.org/record/4064802 | 8.2 GB | Ax, Ay, Az | https://www.mdpi.com/1424-8220/21/12/4050 |
+| https://zenodo.org/record/4064802 | 8.2 GB | Ax, Ay, Az | CNN | https://www.mdpi.com/1424-8220/21/12/4050 |
 ## Cow indoor localization
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
