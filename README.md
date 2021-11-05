@@ -19,7 +19,7 @@ Complete solution of the animal monitoring behavior problem.
 |------|------|:---------:|-------|-------|
 | https://www.mdpi.com/1424-8220/20/17/4741 | 89Mb | X, Y, Z, Ax, Ay, Az | Linear mixed model | [Riaboff et al., 2020](https://www.mdpi.com/1424-8220/20/17/4741) |
 | https://zenodo.org/record/4064802 | 8.2 GB | Ax, Ay, Az | CNN | [Pavlovic et al., 2021](https://www.mdpi.com/1424-8220/21/12/4050) |
-| https://zenodo.org/record/5399259 | 41.7 MB | Ax, Ay, Az | | []() |
+| https://zenodo.org/record/5399259 | 41.7 MB | Ax, Ay, Az | CNN | [Li et al., 2021](https://ieeexplore.ieee.org/abstract/document/9566833) |
 ## Cow indoor localization
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
