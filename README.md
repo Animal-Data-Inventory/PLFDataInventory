@@ -24,7 +24,7 @@ Complete solution of the animal monitoring behavior problem.
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
 | https://zenodo.org/record/3981400 | 40 Gb | Frames | CNN | Pereira et al., in review |
-| https://zenodo.org/deposit/3900340 | 50 Gb | RSS x 10 stations | Trilateration | [Bloch et al., 2020](https://www.mdpi.com/1424-8220/20/14/3841) |
+| https://zenodo.org/record/3900340 | 50 Gb | RSS x 10 stations | Trilateration | [Bloch et al., 2020](https://www.mdpi.com/1424-8220/20/14/3841) |
 ## Cow outdoor localization
 
 # Pigs
