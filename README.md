@@ -27,6 +27,11 @@ Complete solution of the animal monitoring behavior problem.
 | https://zenodo.org/record/3900340 | 50 Gb | RSS x 10 stations | Trilateration | [Bloch et al., 2020](https://www.mdpi.com/1424-8220/20/14/3841) |
 ## Cow outdoor localization
 
+## Cow health and welfare
+| link | Size | Variables | Model | Paper |
+|------|------|:---------:|-------|-------|
+| https://data.inrae.fr/dataset.xhtml?persistentId=doi:10.15454/52J8YS | 165 Mb |  |  | [Lardy et al. 2022](https://doi.org/10.1016/j.anopes.2022.100004) |
+
 # Pigs
 ## Pigs behavior
 
